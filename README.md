@@ -14,7 +14,7 @@ This project analyzes the Stack Overflow Developer Survey to uncover current and
 - **Stack Overflow Developer Survey** — current/future technology usage and demographics
 - **Job posting data** — collected via a custom Flask Jobs API (`job-postings.xlsx`)
 - **Programming language salary data** — collected via web scraping (`popular-languages.csv`)
-- - **Raw survey dataset** — not included in this repo due to file size (150+ MB); available directly from the [Stack Overflow Developer Survey](https://survey.stackoverflow.co/)
+- **Raw survey dataset** — not included in this repo due to file size (150+ MB); this analysis uses the [2024 Stack Overflow Developer Survey](https://survey.stackoverflow.co/2024/), available from Stack Overflow's official Developer Survey results pages
 
 ## Tools & Technologies
 - **Python** (Jupyter notebooks) — data cleaning, transformation, and analysis
