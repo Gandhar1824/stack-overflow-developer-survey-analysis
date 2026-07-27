@@ -25,7 +25,7 @@ This project analyzes the Stack Overflow Developer Survey to uncover current and
 ## Repository Contents
 ```
 ├── notebooks/          # Jupyter notebooks (Jobs API, web scraping, analysis)
-├── data/                # job-postings.xlsx, popular-languages.csv, survey data
+├── data/                # job-postings.xlsx, popular-languages.csv
 ├── presentation/        # Final capstone presentation (.pptx)
 ├── dashboard/            # Cognos dashboard screenshots/exports
 └── README.md
